@@ -68,8 +68,3 @@ If you feel like this is to easy, we have some extra challenges you might want t
 2. Make the data persisted, instead of in-memory
 3. Add documentation to your API (e.g. /swagger/v1/swagger.json)
 4. "Containerize" your application (e.g. Dockerfile)
-
-## Uploading
-If you struggle at any time when uploading your solution, you can upload to a private GitHub repository and we will review it.
-
-## Good luck!
